@@ -1,2 +1,4 @@
 Danh sach thanh vien
 Ta Thi Bay Tam
+Nguyen Van Tam Ta
+Tran Thi Bay Mo
